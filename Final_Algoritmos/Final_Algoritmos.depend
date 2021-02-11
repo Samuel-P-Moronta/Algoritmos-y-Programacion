@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1575577879 source:c:\users\dell\desktop\final_algoritmos\main.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<string.h>
-	<conio.c>
-
